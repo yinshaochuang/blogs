@@ -37,7 +37,7 @@
  ` .content {`
   `  line-height: 200px;`
  ` }`  
-##绝对定位和负Margin  
+##3.绝对定位和负Margin  
 这里通过绝对定位将目标元素左上角定位在父级元素的中央位置，然后通过设定目标元素的margin属性使其中心点与父级元素重合，适用于所有block元素。
 `<div class="parent">`
   `<div class="child">Content here</div>`
@@ -57,7 +57,7 @@
  ` margin: -15% 0 0 -25%; /*margin 为负值且为自身尺寸的一半*/`
 `}`
 然而，使用这种方法经常会出现父级容器中的内容溢出， 所以最好在知道父级元素的宽度和高度时使用该方法。  
-##3.绝对定位 and Stretching  
+##4.绝对定位 and Stretching  
 这里通过绝对定位并设置top, bottom, right, and left 为 0 ，将目标元素拉伸至父级元素的所有 4 个边。 再设置 margin 为 auto，使得 上下和左右 margin 相等。则实现完全的剧中效果。适用于所有block元素。 
 `<div class="parent">`
  ` <div class="child">Content here</div>`
@@ -79,7 +79,7 @@
  ` margin: auto;`
 `}`
 这种方法，在IE 8 以下不 work …  
-##4.绝对定位 and transform3d  
+##5.绝对定位 and transform3d  
 这里通过绝对定位将目标元素左上角定位在父级元素的中央位置，然后通过设定目标元素的transform3d属性使其中心点与父级元素重合，适用于所有block元素。
 `<div class="parent">`
  ` <div class="child">Content here</div>`
@@ -99,7 +99,7 @@
   `transform:translate3d(-50%,-50%,0); /*向左向上移动自身`尺寸的一半*/`
 `}`
 IE 8 以下不 work …  
-##5.css3 Flex布局    
+##6.css3 Flex布局    
 将父级容器设置为 Flex 容器，并规定子项目的排列方式。详细参见[Flex布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool) 
 
   `<div class="parent">`
