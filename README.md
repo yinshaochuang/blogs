@@ -8,4 +8,4 @@
 ## 6. [路由](https://github.com/yinshaochuang/blogs/blob/master/router.md)  
 ## 7. [javascript](https://github.com/yinshaochuang/blogs/blob/master/javascript.md)  
 ## 8. [事件委派](https://github.com/yinshaochuang/blogs/blob/master/target.md)  
-## 9. [伪类]()
+## 9. [伪类](https://github.com/yinshaochuang/blogs/blob/master/weilei.md)
