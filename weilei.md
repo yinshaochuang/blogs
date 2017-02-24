@@ -12,7 +12,7 @@
  伪元素所控制的内容和一个元素控制的内容一样，但是伪元素不存在于文档树中，  
  不是真正的元素，所以叫伪元素。  
  伪类有：
- :first-child ，:link:，vistited，:hover:，active:focus，:lang，:not(s)，：root等...
+ :first-child ，link:，vistited，:hover:，active:focus，:lang，:not(s)，：root等...
  伪元素有：
  :first-line，:first-letter，:before，:after，:placeholder,:selection
  提醒，如果你的网站只需要兼容webkit、firefox、opera等浏览器，  
