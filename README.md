@@ -9,4 +9,4 @@
 ## 7. [javascript](https://github.com/yinshaochuang/blogs/blob/master/javascript.md)  
 ## 8. [事件委派](https://github.com/yinshaochuang/blogs/blob/master/target.md)  
 ## 9. [伪类](https://github.com/yinshaochuang/blogs/blob/master/weilei.md)  
-## 10. [数组去重]()
+## 10. [数组去重](https://github.com/yinshaochuang/blogs/blob/master/array.md)
