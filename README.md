@@ -6,5 +6,5 @@
 ## 4. [angular](https://github.com/yinshaochuang/blogs/blob/master/angular.md)  
 ## 5. [ajax](https://github.com/yinshaochuang/blogs/blob/master/ajax.md)  
 ## 6. [路由](https://github.com/yinshaochuang/blogs/blob/master/router.md)  
-## 7. [javascript]()  
-## 8. [事件委派]()
+## 7. [javascript](https://github.com/yinshaochuang/blogs/blob/master/javascript.md)  
+## 8. [事件委派](https://github.com/yinshaochuang/blogs/blob/master/target.md)
