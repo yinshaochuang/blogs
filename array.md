@@ -4,7 +4,8 @@
 //一般方法->使用indexOf
 Array.prototype.unique = function(){
     var newArr = [];
-    //此处改进一下就是直接把第一个元素先放入新数组中，可以减少一次遍历，也就是说var newArr = [this[0]]
+    //此处改进一下就是直接把第一个元素先放入新数组中，可以减少一次遍历，  
+    也就是说var newArr = [this[0]]
     var len = this.length;
     for(var i = 0;i < len; i++){
         if(newArr.indexOf(this[i]) == -1){
